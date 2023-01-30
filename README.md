@@ -10,4 +10,5 @@
 * dplyr_1.0.7
 
 ## Run R script to get single cell figures
-Rscript WenLin_scs_2023.R
+1. Download .RData files from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE223026
+2. Run Rscript WenLin_scs_2023.R in R to reproduce figures from the paper
